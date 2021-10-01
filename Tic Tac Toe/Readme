@@ -1,0 +1,11 @@
+Install pygame and numpy first 
+Command for win
+pip install pygame
+pip install numpy
+
+Linux 
+Use google
+
+Then run the main.py
+Press r to restart the game!
+Enjoy
